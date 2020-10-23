@@ -52,9 +52,11 @@ $ git push -u origin Branch_Name
 
 ## Step 5 : Pull Request
 - Go to your forked repository in browser and click on compare and pull requests.
- 
-- Then add a title and description to your pull request that explains your contribution.
+![compare pr](https://user-images.githubusercontent.com/59971890/97012110-26b1d180-1565-11eb-96ee-5928a07fc45d.png)
 
+- Then add a title and description to your pull request that explains your contribution.
+![pr](https://user-images.githubusercontent.com/59971890/97012171-35988400-1565-11eb-98bc-0fb397fd6c93.png)
+- Then Compare and Pull Request
 
 Easy! Isn't it? So you've submitted your PR. Now wait for any mentor to review and merge your PR.
 
