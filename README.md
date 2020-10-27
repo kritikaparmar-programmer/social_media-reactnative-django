@@ -30,6 +30,8 @@ Autumn of Open Source, 2020, is an Open Source Program organized by [**Sanscript
 
 
  ## How to start ? 🎪
+ 
+ #### Take a look at [CONTRIBUTING.md](https://github.com/sanscript-tech/social_media-reactnative-django/blob/main/CONTRIBUTING.md) for detailed information.
 
 
 #### If you don't have git on your machine, [install it](https://help.github.com/articles/set-up-git/).
